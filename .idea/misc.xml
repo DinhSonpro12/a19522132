@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Year_3/NT118.L11/19522531_HoangXuanVu_Lab2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.29010416666666666" />
+        <entry key="..\:/Year_3/NT118.L11/19522531_HoangXuanVu_Lab2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.29010416666666666" />
+        <entry key="..\:/Year_3/NT118.L11/19522531_HoangXuanVu_Lab2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Year_3/NT118.L11/19522531_HoangXuanVu_Lab2/app/src/main/res/layout/activity_main_th3.xml" value="0.159375" />
+        <entry key="..\:/Year_3/NT118.L11/19522531_HoangXuanVu_Lab2/app/src/main/res/layout/activity_main_th5.xml" value="0.25833333333333336" />
+        <entry key="..\:/Year_3/NT118.L11/19522531_HoangXuanVu_Lab2/app/src/main/res/layout/activity_main_th7.xml" value="0.3546875" />
+        <entry key="..\:/Year_3/NT118.L11/19522531_HoangXuanVu_Lab2/app/src/main/res/layout/item_category.xml" value="0.18125" />
+        <entry key="..\:/Year_3/NT118.L11/19522531_HoangXuanVu_Lab2/app/src/main/res/layout/item_employee.xml" value="0.25" />
+        <entry key="..\:/Year_3/NT118.L11/19522531_HoangXuanVu_Lab2/app/src/main/res/layout/item_grid.xml" value="0.42857144316848494" />
+        <entry key="..\:/Year_3/NT118.L11/19522531_HoangXuanVu_Lab2/app/src/main/res/layout/item_recyclerview.xml" value="0.19739583333333333" />
+        <entry key="..\:/Year_3/NT118.L11/19522531_HoangXuanVu_Lab2/app/src/main/res/layout/item_selected.xml" value="0.18125" />
+        <entry key="..\:/Year_3/NT118.L11/19522531_HoangXuanVu_Lab2/app/src/main/res/layout/item_spinner.xml" value="0.27395833333333336" />
+        <entry key="..\:/Year_3/NT118.L11/19522531_HoangXuanVu_Lab2/app/src/main/res/layout/layout_th3.xml" value="0.21428572158424247" />
+        <entry key="..\:/Year_3/NT118.L11/19522531_HoangXuanVu_Lab2/app/src/main/res/layout/layout_th4.xml" value="0.21428572158424247" />
+        <entry key="..\:/Year_3/NT118.L11/19522531_HoangXuanVu_Lab2/app/src/main/res/layout/layout_th5.xml" value="0.146875" />
+        <entry key="..\:/Year_3/NT118.L11/19522531_HoangXuanVu_Lab2/app/src/main/res/layout/layout_th6.xml" value="0.42857144316848494" />
+        <entry key="..\:/Year_3/NT118.L11/19522531_HoangXuanVu_Lab2/app/src/main/res/layout/layout_th7.xml" value="0.1515625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.42857144316848494" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

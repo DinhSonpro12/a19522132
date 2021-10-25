@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.google.a19522132">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.a19522132">
+        <activity
+            android:name="com.google.a19522132.MainActivity_th6"
+            android:exported="true" />
+        <activity
+            android:name="com.google.a19522132.MainActivity_th5"
+            android:exported="true" />
+        <activity
+            android:name="com.google.a19522132.MainActivity_th4"
+            android:exported="true" />
+        <activity
+            android:name="com.google.a19522132.MainActivity_th3"
+            android:exported="true" />
+        <activity
+            android:name="com.google.a19522132.MainActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.google.a19522132.MainActivity_th7"
+            android:exported="true">
+
+        </activity>
+
+        <activity
+            android:name="com.google.a19522132.menu"
+            android:label="menu"
+            android:exported="true">
+
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER"/>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+
+
+
+    </application>
+
+</manifest>
